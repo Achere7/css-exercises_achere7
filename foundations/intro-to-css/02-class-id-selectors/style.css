@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.RegularClass {
+    background-color:rgb(224, 145, 145);
+    font-family: Verdana, "DejaVu Sans", serif;
+}
+#number2 {
+    color: rgb(32, 115, 224);
+    font-size: 36px;
+}
+.Cooler{
+    font-size: 24px;
+}
+#number4{
+    background-color: rgba(34, 196, 34, 0.932);
+    font-size: 24px;
+    font-weight: 700;
+}
